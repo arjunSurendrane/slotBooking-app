@@ -1,9 +1,17 @@
 # slotBooking-app
 This is a React application for viewing available slots
 
-## Setup
-download or clone the repository
-run 
--npm install
--npm run dev
+## Technologies
+Project is created with:
+* Tailwind.css
+* Material/Ui
+* dayjs
 
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm run dev
+```
