@@ -7,6 +7,9 @@ Project is created with:
 * Material/Ui
 * dayjs
 
+## Images
+![Algorithm schema](./slotBooking.png)
+
 ## Setup
 To run this project, install it locally using npm:
 
